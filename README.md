@@ -3,7 +3,7 @@
 
 ## Requisitos
 
-IntelliJ IDEA Versión comunidad (Opcional)
+IntelliJ IDEA, Versión comunidad (Opcional)
 
 > https://www.jetbrains.com/es-es/idea/download
 
@@ -14,6 +14,8 @@ Jdk 20
 Postman
 
 > https://www.postman.com/downloads/
+
+Maven 4.0.0
 
 ## Ejecución
 
@@ -28,7 +30,7 @@ Si no se tiene intelliJ, ejecutar en la terminal
 
 <br>
 
-> En Postman
+**En Postman**
 
 <br>
 
