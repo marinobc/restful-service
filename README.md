@@ -3,7 +3,7 @@
 
 ## Requisitos
 
-IntelliJ IDEA (Versión comunidad)
+IntelliJ IDEA Versión comunidad (Opcional)
 
 > https://www.jetbrains.com/es-es/idea/download
 
@@ -17,8 +17,14 @@ Postman
 
 ## Ejecución
 
+Si se tiene IntelliJ
+
 - Abrir el proyecto en IntelliJ
 - Ejecutar "Application"
+
+Si no se tiene intelliJ, ejecutar en la terminal
+
+>mvn clean spring-boot:run
 
 <br>
 
