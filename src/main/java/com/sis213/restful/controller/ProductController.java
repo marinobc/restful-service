@@ -15,12 +15,12 @@ import java.util.UUID;
 @RestController
 public class ProductController {
 
-    /*
+    
     @GetMapping("/")
     public String hello(){
         return "Hello World";
     }
-
+    /*
     @PostMapping("/product")
     public String createProduct(@RequestBody final Product product){
         System.out.println(product);
